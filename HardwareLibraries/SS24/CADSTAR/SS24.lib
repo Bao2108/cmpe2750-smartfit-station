@@ -1,0 +1,18 @@
+.SS24 :1 ;Obsolete - 60 V, 2.0 A Schottky Rectifier
+DIOM5436X247N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SS24
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (SS24)
+~!Mouser Part Number (512-SS24)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/SS24?qs=2ONuHmP%2FXzaG3AS4UEdHKw%3D%3D)
+~!Arrow Part Number (SS24)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ss24/on-semiconductor)
+~!Link Datasheet (https://www.onsemi.com/download/data-sheet/pdf/SS24-D.PDF)
+~!Height (2.47mm)
+~!3D_Model (SS24)
+SS24
+1.1!U 2.1!U 

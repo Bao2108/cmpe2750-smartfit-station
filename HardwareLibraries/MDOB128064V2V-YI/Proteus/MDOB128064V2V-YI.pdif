@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MDOB128064V2V-YI"
+   (description "Non-Touch Graphic LCD Display Module Transmissive Yellow OLED I2C 0.96\" (24.38mm) 128 x 64")
+   (family "ANA")
+   (package "MDOB128064V2VYI")
+   (attribute "Datasheet Link" "https://midasdisplays.com/wp-content/uploads/2024/12/MDOB128064V2V-YI.pdf")
+   (attribute "Geometry.Height" "4.17mm")
+   (attribute "Manufacturer_Name" "MIDAS")
+   (attribute "Manufacturer_Part_Number" "MDOB128064V2V-YI")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "MDOB128064V2V-YI")
+    (pin "VCC" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "SCL" 3 PS)
+    (pin "SDA" 4 PS)
+   )
+  )
+  (symbol "MDOB128064V2V-YI"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "MDOB128064V2VYI"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 17.46 1.65)
+      (pt -9.84 1.65)
+      (pt -9.84 -25.65)
+      (pt 17.46 -25.65)
+      (pt 17.46 1.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 17.46 1.65)
+      (pt -9.84 1.65)
+      (pt -9.84 -25.65)
+      (pt 17.46 -25.65)
+      (pt 17.46 1.65))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 18.46 2.65)
+      (pt -10.84 2.65)
+      (pt -10.84 -26.65)
+      (pt 18.46 -26.65)
+      (pt 18.46 2.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 2.2)
+      (arc (pt 0.000 2.200) (pt 0.050 2.100) (pt -0.050 2.200) (start 180.0) (sweep 90.0))
+      (pt 0 2.1)
+      (arc (pt 0.000 2.100) (pt 0.050 2.100) (pt -0.050 2.200) (start 180.0) (sweep -90.0))
+      (pt 0 2.2))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 2.540 0.000) (padstack 0))
+   (leg 3 (pt 5.080 0.000) (padstack 0))
+   (leg 4 (pt 7.620 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.11)
+    (plated true)
+    (pad (layer TCOP) (round 1.665))
+    (pad (layer INNER) (round 1.665))
+    (pad (layer BCOP) (round 1.665))
+   )
+   (padstack 1
+    (hole 1.11)
+    (plated true)
+    (pad (layer TCOP) (square 1.665))
+    (pad (layer INNER) (round 1.665))
+    (pad (layer BCOP) (square 1.665))
+   )
+   (model "MDOB128064V2V-YI.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

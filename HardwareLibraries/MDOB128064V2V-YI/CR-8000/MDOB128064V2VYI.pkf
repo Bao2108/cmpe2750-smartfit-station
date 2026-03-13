@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MDOB128064V2VYI"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MDOB128064V2VYI")
+        (spec "default")
+    )
+)

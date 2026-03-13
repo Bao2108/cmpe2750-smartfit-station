@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MDOB128064V2V-YI"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-02-03-15:51:21)
+    (mountForm default
+        (footprintRef "MDOB128064V2VYI")
+        (spec "System")
+    )
+)

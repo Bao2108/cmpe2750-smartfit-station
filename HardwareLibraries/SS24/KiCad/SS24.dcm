@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS24
+D Obsolete - 60 V, 2.0 A Schottky Rectifier
+K
+F https://www.onsemi.com/download/data-sheet/pdf/SS24-D.PDF
+$ENDCMP
+#
+#End Doc Library
