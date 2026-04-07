@@ -1,0 +1,18 @@
+.MDOB128064V2V-YI :1 ;Non-Touch Graphic LCD Display Module Transmissive Yellow OLED I2C 0.96" (24.38mm) 128 x 64
+MDOB128064V2VYI
+*STM DS
+*NGS
+*PLB 1="VCC" 2="GND" 3="SCL" 4="SDA"
+*MXP 4
+*DFN MDOB128064V2V-YI
+~!Manufacturer_Name (MIDAS)
+~!Manufacturer_Part_Number (MDOB128064V2V-YI)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://midasdisplays.com/wp-content/uploads/2024/12/MDOB128064V2V-YI.pdf)
+~!Height (4.17mm)
+~!3D_Model (MDOB128064V2V-YI)
+MDOB128064V2V-YI
+1.1!U 2.1!U 3.1!U 4.1!U 

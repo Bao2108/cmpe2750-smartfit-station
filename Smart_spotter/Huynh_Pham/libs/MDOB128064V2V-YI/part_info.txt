@@ -1,0 +1,9 @@
+Manufacturer=MIDAS
+PartNumber=MDOB128064V2V-YI
+PartCategory=Display
+PackageCategory=Other
+PinCount=4
+Version=1.4
+Released=2025-02-03 15:51:21
+Downloaded=2026-02-23 16:39:19
+3D=Y

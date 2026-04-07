@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS24'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "SS24" (!) = "", "DIOM5436X247N", "Diodes Moulded", "512-SS24", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/SS24?qs=2ONuHmP%2FXzaG3AS4UEdHKw%3D%3D", "SS24", "https://www.arrow.com/en/products/ss24/on-semiconductor", "Obsolete - 60 V, 2.0 A Schottky Rectifier", "https://www.onsemi.com/download/data-sheet/pdf/SS24-D.PDF", "2.47 mm"
+END_PART
+
+END.

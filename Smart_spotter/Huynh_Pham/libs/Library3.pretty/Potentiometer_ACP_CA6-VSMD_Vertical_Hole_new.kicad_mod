@@ -1,0 +1,279 @@
+(footprint "Potentiometer_ACP_CA6-VSMD_Vertical_Hole_new"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Potentiometer, vertical, shaft hole, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf")
+	(tags "Potentiometer vertical hole ACP CA6-VSMD")
+	(property "Reference" "REF**"
+		(at 0 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "bf2ad4f6-d822-4b5a-a0ee-247878f791bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Potentiometer_ACP_CA6-VSMD_Vertical_Hole_new"
+		(at 0 4.5 0)
+		(layer "F.Fab")
+		(uuid "cdb00cbf-2497-4e03-99ed-aa144d7cd5f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74144616-094b-4cd8-a9c7-0225e8700e4b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a628a3fa-c743-48eb-b372-ff26521b06ec")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.36 0.92)
+		(end -3.36 -0.92)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90b4b9d8-e0ec-43b1-85b2-9c9a21f052aa")
+	)
+	(fp_line
+		(start -3.36 0.92)
+		(end -3.36 -0.92)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90b4b9d8-e0ec-43b1-85b2-9c9a21f052aa")
+	)
+	(fp_line
+		(start -2.845 -3.36)
+		(end 3.36 -3.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d400568c-06d0-40b3-96c8-0f56fc99262f")
+	)
+	(fp_line
+		(start -2.845 -3.36)
+		(end 3.36 -3.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d400568c-06d0-40b3-96c8-0f56fc99262f")
+	)
+	(fp_line
+		(start 3.36 -3.36)
+		(end 3.36 -1.23)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a04621e9-d25f-49bf-8c17-47b26961daa7")
+	)
+	(fp_line
+		(start 3.36 -3.36)
+		(end 3.36 -1.23)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a04621e9-d25f-49bf-8c17-47b26961daa7")
+	)
+	(fp_line
+		(start 3.36 1.23)
+		(end 3.36 3.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f3e4044-527c-482a-948a-bd709399b5eb")
+	)
+	(fp_line
+		(start 3.36 1.23)
+		(end 3.36 3.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f3e4044-527c-482a-948a-bd709399b5eb")
+	)
+	(fp_line
+		(start 3.36 3.36)
+		(end -2.845 3.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ade51625-87fc-4094-a405-e51958004aea")
+	)
+	(fp_line
+		(start 3.36 3.36)
+		(end -2.845 3.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ade51625-87fc-4094-a405-e51958004aea")
+	)
+	(fp_rect
+		(start -5.83 -3.5)
+		(end 5.83 3.51)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ed4fb8d2-8c33-49ba-8258-cb5bfdfc83e9")
+	)
+	(fp_rect
+		(start -5.83 -3.5)
+		(end 5.83 3.51)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ed4fb8d2-8c33-49ba-8258-cb5bfdfc83e9")
+	)
+	(fp_rect
+		(start -3.25 -3.25)
+		(end 3.25 3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "abb518a4-989d-44b2-9107-e5ec8961943e")
+	)
+	(fp_rect
+		(start -3.25 -3.25)
+		(end 3.25 3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "abb518a4-989d-44b2-9107-e5ec8961943e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -2.25 0 90)
+		(layer "F.Fab")
+		(uuid "01de2de6-bd9b-43ab-9d97-346161ed9550")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -2.25 0 90)
+		(layer "F.Fab")
+		(uuid "01de2de6-bd9b-43ab-9d97-346161ed9550")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0.275 0)
+		(size 2.5 2.5)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "da6336df-fd38-4722-b6de-0e625d399877")
+	)
+	(pad "1" smd roundrect
+		(at -4.325 2.15)
+		(size 2.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(uuid "0f5b96a1-a928-4e3b-a511-53c39d2f104b")
+	)
+	(pad "2" smd roundrect
+		(at 4.325 0)
+		(size 2.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(uuid "40c4cd5c-cb5a-4a79-9489-6afced51b269")
+	)
+	(pad "3" smd roundrect
+		(at -4.325 -2.15)
+		(size 2.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(uuid "3a86aee8-925b-4898-9d65-44b6710af09c")
+	)
+	(pad "3" smd roundrect
+		(at -4.325 -2.15)
+		(size 2.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(uuid "3a86aee8-925b-4898-9d65-44b6710af09c")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA6-VSMD_Vertical_Hole.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "G:/07_Jobs/Huynh_Pham/libs/РЕЗИСТОР CA6V.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

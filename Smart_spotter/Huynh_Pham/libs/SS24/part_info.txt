@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=SS24
+PartCategory=Schottky Diode
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=4.3
+Released=2018-03-13 12:59:38
+Downloaded=2026-02-24 02:35:47
+3D=Y

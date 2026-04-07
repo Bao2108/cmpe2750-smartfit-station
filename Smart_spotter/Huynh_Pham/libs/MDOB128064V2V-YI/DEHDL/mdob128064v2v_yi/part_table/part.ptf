@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MDOB128064V2V_YI'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MIDAS", "MDOB128064V2V-YI" (!) = "", "MDOB128064V2VYI", "Other", "", "", "", "", "Non-Touch Graphic LCD Display Module Transmissive Yellow OLED I2C 0.96" (24.38mm) 128 x 64", "https://midasdisplays.com/wp-content/uploads/2024/12/MDOB128064V2V-YI.pdf", "4.17 mm"
+END_PART
+
+END.
